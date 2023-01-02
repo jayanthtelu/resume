@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 links = {
-    "Github": "https://github.com/Jayanth-Telu",
+    "Github": "https://github.com/jayanthtelu",
     "LinkedIn" : "https://www.linkedin.com/in/jayanth-telu-033067172/",
 }
 
